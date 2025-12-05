@@ -11,7 +11,7 @@ This is an **educational project** created to learn and practice Android develop
 ## ⚠️ Architecture Note
 
 This is one of my earlier Android projects. While the app is fully functional and implements clean architecture patterns (Repository, DAO, ViewModel, Hilt), **all code resides in a single module**.
-
+At the time of development, this single-module approach was appropriate for my learning stage. However, with my current knowledge, I would choose multi-modular architecture for future projects to improve scalability and separation of concerns.
 
 ## Features
 
