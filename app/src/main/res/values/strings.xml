@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Clock</string>
+    <string name="default_message">Clock Alarm</string>
+    <string name="warning_icon">Warning Icon</string>
+    <string name="permission_alert_title">Permission Required</string>
+    <string name="permission_alert_text">
+        This app needs notification permission to provide notifications.
+        Please enable it in the app settings.
+    </string>
+    <string name="permission_not_granted">Notification permission is required for this app to function properly.
+        Please enable notifications in your device settings.
+        \n\nTap `OK` to manage notification settings, or
+        launch the app if notifications are already enabled.
+        \n\nTap `Close App` to exit.</string>
+    <string name="_12_45">12:45</string>
+    <string name="fri_september_14">Fri, September 14</string>
+    <string name="about_app_description">This Clock app allows you to effortlessly set alarms, timers, and use a stopwatch—all crafted with Jetpack Compose for a smooth and modern user experience.</string>
+</resources>
